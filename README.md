@@ -19,7 +19,8 @@ To install and run this project, follow these steps:
 git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 cd YOUR-REPOSITORY
 npm install
-npm start
+npm start/nodemon init
+go to localhost:3000
 ```
 
 ### Configuration
